@@ -1,0 +1,6 @@
+/.idea/*
+/config.php
+/system/logs/*.log
+/vendor/*
+tests/_output/*
+tests/_output/*
